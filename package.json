@@ -1,7 +1,7 @@
 {
   "name": "github-repos-searchings",
   "version": "1.0.1",
-  "description": "",
+  "description": "Get a list of Github repositories of specified username sorted by numbers of stars in descending order and last updated time",
   "main": "index.js",
   "homepage": "https://github.com/KanishkaSinghh/github-repos-searchings",
   "repository": {
@@ -23,5 +23,8 @@
     "stars"
   ],
   "author": "Kanishka Singh <kanishkasingh199922@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanishkaSinghh/github-repos-searchings/issues"
+  }
 }
